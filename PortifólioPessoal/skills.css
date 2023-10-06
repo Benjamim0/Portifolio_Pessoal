@@ -7,3 +7,11 @@
 .div_nav {
     align-items: stretch;
 }
+
+h1 {
+    background-color: #5a5a;
+    display: inline;
+}
+.h3_01 {
+    text-align: right;
+}
