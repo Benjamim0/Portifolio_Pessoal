@@ -1,7 +1,13 @@
-.body {
-    background-color: blue;
-}
+/* .body { 
+     background-color:blue; 
+     } */
 
+header {
+    width: 20% ;
+}
+nav {
+    
+}
 .nav {
     margin: 10px;
     padding: 20px;
@@ -13,6 +19,11 @@
 .div_nav {
     align-items: stretch;
 }
+
+/*.section_01 {
+    width: 100vh ;
+    height: 100vw;
+}*/
 
 .container {
     width: 100vw;
